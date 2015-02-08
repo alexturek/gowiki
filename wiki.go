@@ -1,8 +1,8 @@
 package main
 
 import (
-	"html/template"
 	"errors"
+	"html/template"
 	"io/ioutil"
 	"net/http"
 	"regexp"
